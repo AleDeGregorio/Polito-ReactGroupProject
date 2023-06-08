@@ -1,0 +1,19 @@
+.head-text {
+    color: white;
+    font-size: 1.3rem;
+}
+
+.head-text:hover {
+    cursor: pointer;
+    color: cadetblue;
+}
+
+.personIcon {
+    color: white;
+    font-size: 2rem;
+}
+
+.personIcon:hover {
+    cursor: pointer;
+    color: cadetblue;
+}
